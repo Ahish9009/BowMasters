@@ -5,4 +5,5 @@
   - Works by modelling the path of an actual arrow if it were shot with the given power and at the given angle, using '/', & '\\'
 
 ## Dependencies
-  - Python 2.7
+  - Python 2.7/Python 3.6
+    - Uses PyGame
